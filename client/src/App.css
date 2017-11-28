@@ -1,0 +1,39 @@
+.App {
+    text-align: center;
+    font-family: "Helvetica";
+    width: 100%;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 42px;
+}
+
+.passwords {
+    list-style: none;
+    font-style: italic;
+    font-family: "Helvetica";
+    font-weight: lighter;
+    padding: 10px;
+    font-size: 30px;
+    margin-bottom: .5em;
+    margin-top: -.45em;
+}
+
+.more {
+    font-size: 32px;
+    font-family: "Helvetica";
+    border: 3px solid #000;
+    background-color: blue;
+    font-weight: normal;
+    color: yellow;
+    padding: 10px 25px;
+}
+
+.more:hover {
+    background-color: red;
+}
+
+.more:active {
+    background-color: blue;
+}
