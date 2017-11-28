@@ -1,6 +1,6 @@
 A password generator built with React and Express.
 
-Phil Neiman's Deployed version: https://random-pass-gen.herokuapp.com/
+### Phil Neiman's Deployed version: https://random-pass-gen.herokuapp.com/
 
 This is using Create React App to bootstrap a React project, connect the React app to an Express backend, and deploy the whole thing to Heroku.
 
