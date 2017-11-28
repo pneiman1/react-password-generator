@@ -4,7 +4,7 @@ Phil Neiman's Deployed version: https://random-pass-gen.herokuapp.com/
 
 This is using Create React App to bootstrap a React project, connect the React app to an Express backend, and deploy the whole thing to Heroku.
 
-Read the blog post: Create React App with Express in Production
+Read the blog post: Create React App with Express in Production here: https://daveceddia.com/create-react-app-express-production/
 
 Prerequisites
 
